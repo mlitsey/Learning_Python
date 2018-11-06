@@ -1,3 +1,30 @@
+
+"Chapter 4"
+"Augmented assignment statement Equivalent assignment statement"
+spam = spam + 1 : spam += 1
+spam = spam - 1 : spam -= 1
+spam = spam * 1 : spam *= 1
+spam = spam / 1 : spam /= 1
+spam = spam % 1 : spam %= 1
+
+list = []
+tuple = (0,1)
+
+"Chapter 5"
+dictionary = {}
+keys(), values(), and items() methods
+
+"Chapter 6"
+Escape character Prints 'as'
+'\' : Single quote'
+'\" : Double quote'
+'\t : Tab'
+'\n : Newline (line break)'
+'\\ : Backslash'
+
+
+
+"Chapter 12"
 from openpyxl.utils import get_column_letter, column_index_from_string
 
 
