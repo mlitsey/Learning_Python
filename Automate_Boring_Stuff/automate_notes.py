@@ -22,7 +22,7 @@ Escape character Prints 'as'
 '\n : Newline (line break)'
 '\\ : Backslash'
 
-
+raw string = print(r'That is Carol\'s cat.')
 
 "Chapter 12"
 from openpyxl.utils import get_column_letter, column_index_from_string
