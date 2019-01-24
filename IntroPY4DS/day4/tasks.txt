@@ -1,0 +1,77 @@
+to do...
+01. replace the list with 
+    numbers
+
+02. instead of printing the 
+    list of numbers,
+    add them 
+
+i.e. [1,2,3,4]
+
+the result should 
+print, 4+3+2+1=10
+
+it should print
+10...
+
+
+
+
+
+to do - 
+
+01. if the total is 
+    between 10-20, print 'low'
+    between 20-30, print 'med'
+    between 30-40, print 'high'
+    higher than 40 print 'XL'
+
+02. if the number is higher
+    than 40, multiply it by 2
+    and print the answer
+
+
+
+
+
+
+
+
+
+
+
+to do - 
+01. store a list of names in      
+    a list sequence type
+    and adding to the list
+    based on the users' input
+02. example..application would prompt
+    Please enter student name (X to exit):
+03. let them enter the names, when they press
+    X, display all of the names they have 
+    entered along with the total value of the
+    number of names.
+
+.. an example of the end result should read...
+you entered 3 names and they are john, alex, jane 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
